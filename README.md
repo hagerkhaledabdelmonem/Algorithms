@@ -1,4 +1,5 @@
 # Algorithms
+Set of finite steps to solve certain problem
 
 ## Goal:
  - Think
