@@ -8,4 +8,5 @@ public static double PreparePresentBaskets(int W1, int W2, KeyValuePair<int, int
  - W1: weight of 1st basket
  - W2: weight of 2nd basket
  - Items: Pair of weight (Key) & cost (Value) of each item
-## returns: max total cost to fill two baskets
+## returns:
+max total cost to fill two baskets
