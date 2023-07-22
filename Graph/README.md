@@ -6,7 +6,7 @@ Given an UNDIRECTED Graph with relations between different students, count the n
 ## Input:
  - |V| = from 4000 to 8000
  - |E| = sparse or dense
- - number of communities = from 1 to 100
+ - Number of communities = from 1 to 100
 
 ## Function Implemention:
 static int CountCommunities(KeyValuePair<string, string>[] edges)
