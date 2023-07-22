@@ -17,18 +17,29 @@ Number of different communities in the Graph
 
 ## Example: 
 edges1[0] = new KeyValuePair<string, string>("1", "4"); 
+
 edges1[1] = new KeyValuePair<string, string>("4", "5"); 
-### Expected Output = 1;
+
+#### Expected Output = 1;
 
 
 
 edges4[0] = new KeyValuePair<string, string>("1", "5"); 
+
 edges4[1] = new KeyValuePair<string, string>("1", "4"); 
+
 edges4[2] = new KeyValuePair<string, string>("1", "3"); 
+
 edges4[3] = new KeyValuePair<string, string>("1", "2"); 
+
 edges4[4] = new KeyValuePair<string, string>("2", "3"); 
+
 edges4[5] = new KeyValuePair<string, string>("3", "4"); 
+
 edges4[6] = new KeyValuePair<string, string>("4", "5"); 
+
 edges4[7] = new KeyValuePair<string, string>("5", "2"); 
+
 edges4[8] = new KeyValuePair<string, string>("6", "7");
-### Expected Output = 2;
+
+#### Expected Output = 2;
