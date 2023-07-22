@@ -17,6 +17,7 @@ Number of different communities in the Graph
 
 ## Example: 
   - Ex[1]:
+    
       edges1[0] = new KeyValuePair<string, string>("1", "4"); 
       
       edges1[1] = new KeyValuePair<string, string>("4", "5"); 
@@ -26,6 +27,7 @@ Number of different communities in the Graph
 
 
   - Ex[2]:
+    
        edges4[0] = new KeyValuePair<string, string>("1", "5"); 
        
        edges4[1] = new KeyValuePair<string, string>("1", "4"); 
