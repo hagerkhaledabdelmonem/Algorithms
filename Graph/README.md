@@ -21,7 +21,7 @@ Number of different communities in the Graph
       
       edges1[1] = new KeyValuePair<string, string>("4", "5"); 
       
-      #### Expected Output = 1;
+      **Expected Output = 1;**
 
 
 
@@ -44,4 +44,4 @@ Number of different communities in the Graph
        
        edges4[8] = new KeyValuePair<string, string>("6", "7");
        
-       #### Expected Output = 2;
+       **Expected Output = 2;**
